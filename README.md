@@ -46,11 +46,7 @@ I am a **Full-Stack Developer** passionate about building scalable backend syste
 <a href="https://drive.google.com/file/d/1lXaLt8BWbsTGVg9COOfARwR1oqhMZHNj/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
 </p>
 
-### 📈 My Real-Time GitHub Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apurvgupta-ops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=apurvgupta-ops&theme=tokyonight" />
-</p>
+## 📈 My Real-Time GitHub Activity
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=apurvgupta-ops&theme=tokyo-night&area=true&hide_border=true" />
