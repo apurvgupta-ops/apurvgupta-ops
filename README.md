@@ -37,15 +37,6 @@ I am a **Full-Stack Developer** passionate about building scalable backend syste
 
 ---
 
-## 📊 Activity & Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apurvgupta-ops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurvgupta-ops&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Let's Connect!
 
 <p align="left">
