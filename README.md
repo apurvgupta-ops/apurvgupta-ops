@@ -32,8 +32,8 @@ I am a **Full-Stack Developer** passionate about building scalable backend syste
 | :--- | :--- | :--- |
 | 🏗️ **[Production_Backend](https://github.com/apurvgupta-ops/Production_Backend)** | Industry-standard architecture focused on scalability and security. | `Node.js` `Express` `JWT` |
 | 🤖 **[Crm-AI-Assist](https://github.com/apurvgupta-ops/Crm-AI-Assist)** | AI-powered CRM utility for intelligent automation. | `TypeScript` `LangChain` `LLMs` |
-| 📊 **[HissabKitaab](https://github.com/apurvgupta-ops/HisaabKitaab)** | Clone of Splitwise with some addition features. | `Node.js` `MySQL` `SQL` |
-| 🕹️ **[Javascript Concepts](https://github.com/apurvgupta-ops/fatsoma)** | Event Managemant tool with production level code. | `JavaScript ES6+` `Algorithms` |
+| 📊 **[HissabKitaab](https://github.com/apurvgupta-ops/HisaabKitaab)** | Clone of Splitwise with some addition features. | `Nextjs` `Node.js` `Postgres` |
+| 🕹️ **[Fatsoma](https://github.com/apurvgupta-ops/fatsoma)** | Event Managemant tool with production level code. | `Nextjs` `Nodejs` `Turborepo` |
 
 ---
 
